@@ -564,6 +564,16 @@ ul.numbersList span{
     padding: 27px 10px;
 }
 
+.contact-info a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.contact-info a:hover,
+.contact-info a:focus {
+    color: #71b644;
+}
+
 .contact-info span {
     padding-left: 20px;
 }
